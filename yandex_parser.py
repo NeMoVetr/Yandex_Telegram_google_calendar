@@ -5,8 +5,8 @@ import pytz
 import re
 
 # Настройки для подключения к Яндекс.Почте
-EMAIL = 'goodsleeppro@yandex.ru'  # Email
-PASSWORD = 'esamriftsrmjbyzm'  # Пароль SMTP уникальный ключ
+EMAIL = ''  # Email
+PASSWORD = ''  # Пароль SMTP уникальный ключ
 
 
 def clean_email_body(body: str):
