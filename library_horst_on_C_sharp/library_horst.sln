@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "library_horst", "library_horst.csproj", "{C00DF2CF-24AF-449D-90BA-40C34BF5E589}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C00DF2CF-24AF-449D-90BA-40C34BF5E589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C00DF2CF-24AF-449D-90BA-40C34BF5E589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C00DF2CF-24AF-449D-90BA-40C34BF5E589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C00DF2CF-24AF-449D-90BA-40C34BF5E589}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A93FCB3-A448-4DA0-BADF-8B82F810D89A}
+	EndGlobalSection
+EndGlobal

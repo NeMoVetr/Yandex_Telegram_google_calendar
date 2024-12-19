@@ -1,0 +1,12 @@
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\bin\Debug\net8.0\library_horst.deps.json
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\bin\Debug\net8.0\library_horst.dll
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\bin\Debug\net8.0\library_horst.pdb
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.csproj.AssemblyReference.cache
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.GeneratedMSBuildEditorConfig.editorconfig
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.AssemblyInfoInputs.cache
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.AssemblyInfo.cs
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.csproj.CoreCompileInputs.cache
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.dll
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\refint\library_horst.dll
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\library_horst.pdb
+F:\Pasha\VSTU\Practic\Winter_semestr_5\nugnet_HORS\library_horst\obj\Debug\net8.0\ref\library_horst.dll

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "library_horst/1.0.0": {
+        "dependencies": {
+          "Hors": "0.10.0"
+        },
+        "runtime": {
+          "library_horst.dll": {}
+        }
+      },
+      "Hors/0.10.0": {
+        "runtime": {
+          "lib/netstandard2.0/Hors.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "library_horst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hors/0.10.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cdR5f8CxHzfIhkb6xcS6VVU3w3G8dBfS4cwBZO1l+/Uu/5/PFVfZMcOtT5Ol6yniVt/AFUTGPrRHTZYnzHumoA==",
+      "path": "hors/0.10.0",
+      "hashPath": "hors.0.10.0.nupkg.sha512"
+    }
+  }
+}
