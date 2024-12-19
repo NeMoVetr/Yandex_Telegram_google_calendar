@@ -9,3 +9,6 @@
 - Яндекс Почты
 - Google Календаря
 
+## Полезные ссылки
+- **Библиотека Horst:** [https://habr.com/ru/articles/471204/](https://habr.com/ru/articles/471204/)
+- **Инструкция API Google Calendar:** [https://habr.com/ru/articles/525680/](https://habr.com/ru/articles/525680/)
